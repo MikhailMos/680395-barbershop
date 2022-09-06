@@ -1,7 +1,7 @@
 # Учебный проект «Барбершоп»
 
 * Студент: [Михаил](https://up.htmlacademy.ru/htmlcss/22/user/680395).
-
+* Наставник: [Артём Рудов](https://htmlacademy.ru/profile/artrudov)
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
